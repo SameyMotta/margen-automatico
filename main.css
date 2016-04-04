@@ -1,0 +1,30 @@
+/* Escribe aqui tu CSS */
+.uno{
+	border: 20px solid #F3FB09;
+	padding: 30px;
+	width:180px; 
+	height:180px ;
+	display:inline block;
+
+}
+p{
+font-family:Garamond, serif;
+font-size:15px;
+text-align: center;
+}
+
+
+.dos{
+	border: 20px solid #F3FB09;
+	padding: 30px;
+	width:180px; 
+	height:180px ;
+	display:inline block;
+	margin-left: 400px;
+}
+.dos>p{
+font-family:Garamond, serif;
+font-size:15px;
+text-align: left;
+
+}
